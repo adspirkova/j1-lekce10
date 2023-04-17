@@ -15,4 +15,3 @@ Ve třídě `Uloziste` implementujte `ulozitStavDoSouboru` a `nacistStavZeSoubor
 Kočka i myš mají metody getLocation() a setLocation(), které vrací jejich aktuální souřadnice, resp. umožní souřadnice nastavit.
 
 Pro zápis dat do souboru použijte `objectMapper.writeValue(file, object)`, pro načtení ze souboru použijte `objectMapper.readValue(file, UlozenyStav.class)`.
-ß
